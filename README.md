@@ -1,0 +1,5 @@
+- 👋 Hi! This is Abir Ahmed.
+- 👀 I’m interested in Networking and programming.
+- 🌱 I’m currently learning CCNA and Python.
+- 💞️ I’m looking to collaborate on developing myself as a Network+System Engineer and also a python developer.
+- 📫 You can reach me anytime- abirniloy5@gmail.com
